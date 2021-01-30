@@ -1,2 +1,2 @@
 # competitiveML
-jupyter notebooks from Kaggle competitions I participated in. Very simple to fairy complex
+jupyter notebooks from Kaggle competitions I participate in. Very simple to fairy complex
